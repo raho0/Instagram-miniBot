@@ -10,5 +10,5 @@ After first run this script will
 - Get follow list
 - Quit
 
-if you want see who dont follow back there will be in 'dontfollowback.txt'
+if you want see who dont follow back, there will be in 'dontfollowback.txt'.
 after all you want to unfollow any page, you have to edit unfollow_list.txt and main.py
