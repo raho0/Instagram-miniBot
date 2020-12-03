@@ -1,5 +1,6 @@
 # Instagram miniBot
 **An Instagram bot developed using the Selenium Framework.**
+
 **This bot can followers list up to 3k, has ability to check who is in following you or not following and can unfollow users**
 
 Firstly you need install Selenium package and edit user.py (username and password)
